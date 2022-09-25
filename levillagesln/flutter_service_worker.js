@@ -14,14 +14,18 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"icons/android-chrome-192x192.png": "e782685af76f9060ff1747a0431ad748",
+"icons/android-chrome-512x512.png": "14e800d7cca26793298a4190a4211a62",
+"icons/apple-touch-icon.png": "9b74c456e5f79f6c84c43dd6188ec413",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2b4c108e57f198cecd42d4e7841826ca",
-"/": "2b4c108e57f198cecd42d4e7841826ca",
-"main.dart.js": "9454399e6c01cc85dee3781f70a859c0",
-"manifest.json": "3de500b88a28f7784faebf237dbf6b71",
+"icons/logo.png": "e49acdb59a6803e67c1f89c3873cfdef",
+"index.html": "ab4d74d0a3cc285150feb5257fe01a44",
+"/": "ab4d74d0a3cc285150feb5257fe01a44",
+"main.dart.js": "22f543c6e417abe82a3715c970482aac",
+"manifest.json": "574a9d4b525975b0c160e7efaed26f8f",
 "version.json": "f2c5413cf0916f59e7ec79b36fcc55f2"
 };
 
